@@ -12,6 +12,7 @@ Create a model that can predict at least 60% of customers who will experience la
 AVAILABLE VARIABLES
 
 From the dataset we have, there are several data available:
+
 1. Customer ID: Unique ID Customer
 2. Branch: Registered Customer Branch Location
 3. City: Location of Registered Customer's City
@@ -26,10 +27,12 @@ From the dataset we have, there are several data available:
 EXPERIMENT
 
 Review Period:
+
 Customers are reviewed for the past year
 Customers are reviewed for the last 6 months
 
 Variable Adjustment:
+
 Balance is seen as an average over a time horizon & changes are seen at the end of the review and the beginning of the review
 View the average, maximum, and minimum product count holdings in the review period
 Customer activity status is seen in the form of months
