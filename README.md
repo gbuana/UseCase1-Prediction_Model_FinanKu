@@ -2,12 +2,15 @@
 Case Study 1_Model Prediksi Pelanggan Gagal Bayar Kartu Kredit
 
 PROBLEM STATEMENT
+
 Concern about delays in credit card payments on FinanKu which will harm business. So that people who have the potential to experience late payments can be predicted more quickly to determine appropriate strategies for dealing with future conditions.
 
 OBJECTIVE
+
 Create a model that can predict at least 60% of customers who will experience late credit card payments [Accuracy & Recall above 60%]
 
 AVAILABLE VARIABLES
+
 From the dataset we have, there are several data available:
 1. Customer ID: Unique ID Customer
 2. Branch: Registered Customer Branch Location
@@ -21,6 +24,7 @@ From the dataset we have, there are several data available:
 10. Unpaid Tagging: Customer status in default
 
 EXPERIMENT
+
 Review Period:
 Customers are reviewed for the past year
 Customers are reviewed for the last 6 months
