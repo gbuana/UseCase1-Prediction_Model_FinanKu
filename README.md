@@ -33,6 +33,6 @@ Review Period:
 
 Variable Adjustment:
 
-Balance is seen as an average over a time horizon & changes are seen at the end of the review and the beginning of the review
-View the average, maximum, and minimum product count holdings in the review period
-Customer activity status is seen in the form of months
+- Balance is seen as an average over a time horizon & changes are seen at the end of the review and the beginning of the review
+- View the average, maximum, and minimum product count holdings in the review period
+- Customer activity status is seen in the form of months
