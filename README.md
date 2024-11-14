@@ -28,8 +28,8 @@ From the dataset we have, there are several data available:
 
 Review Period:
 
-Customers are reviewed for the past year
-Customers are reviewed for the last 6 months
+- Customers are reviewed for the past year
+- Customers are reviewed for the last 6 months
 
 Variable Adjustment:
 
